@@ -1,0 +1,9 @@
+services:
+  prepas-mpi-www:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: prepas-mpi-www
+    restart: unless-stopped
+    ports:
+      - '${PORT:-80}:80'
