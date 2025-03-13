@@ -1,0 +1,28 @@
+name: Deploy with SSH
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/key
+          chmod 600 ~/.ssh/key
+          ssh-keyscan -p "${{ secrets.SSH_PORT }}" "${{ secrets.SSH_URL }}" >> ~/.ssh/known_hosts
+
+      - name: Update code
+        run: |
+          ssh -p "${{ secrets.SSH_PORT }}" -i ~/.ssh/key "${{ secrets.SSH_USER }}@${{ secrets.SSH_URL }}" << 'ENDSSH'
+          cd ${{ secrets.APP_PATH }} || exit 1
+          docker compose down || exit 1
+          git pull || (docker compose up -d && exit 1)
+          git submodule update --remote || (docker compose up -d && exit 1)
+          docker compose up --build -d || (docker compose up -d && exit 2)
+          ENDSSH
