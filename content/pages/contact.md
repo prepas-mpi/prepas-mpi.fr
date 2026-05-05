@@ -45,7 +45,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 |            Gay-Lussac            |    Limoges    |               [loictrinquet@gmail.com](mailto:loictrinquet@gmail.com)               |
 |          Henri Poincaré          |     Nancy     |           [gabrielringeisen@gmail.com](mailto:gabrielringeisen@gmail.com)           |
 |           Henri Wallon           | Valenciennes  |                               [indisponible](mailto:)                               |
-|              Hoche               |  Versailles   |        [falafel.evrard@protonmail.com](mailto:falafel.evrard@protonmail.com)        |
+|              Hoche               |  Versailles   |        [indisponible](mailto:)        |
 |         Janson De Sailly         |   Paris 16    |          [corti.flavio@protonmail.com](mailto:corti.flavio@protonmail.com)          |
 |              Joffre              |  Montpellier  |               [tibestarthur@gmail.com](mailto:tibestarthur@gmail.com)               |
 |              Kléber              |  Strasbourg   |                               [indisponible](mailto:)                               |
