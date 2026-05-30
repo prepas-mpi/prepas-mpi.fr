@@ -33,7 +33,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 |          Aux Lazaristes          |    Lyon 05    |                               [indisponible](mailto:)                               |
 |              Carnot              |     Dijon     |              [enzo.mongin10@gmail.com](mailto:enzo.mongin10@gmail.com)              |
 | Centre International de Valbonne |   Valbonne    | [cedric.lafenetre.lachenaie@gmail.com](mailto:cedric.lafenetre.lachenaie@gmail.com) |
-|           Champollion            |   Grenoble    |                   [atsdevou@gmail.com](mailto:atsdevou@gmail.com)                   |
+|           Champollion            |   Grenoble    |             [louwen.fricout@gmail.com](mailto:louwen.fricout@gmail.com)             |
 |         Charles Coëffin          | Baie-Malhaut  |                               [indisponible](mailto:)                               |
 |          Claude Fauriel          | Saint-Etienne |          [raphaellaporte204@gmail.com](mailto:raphaellaporte204@gmail.com)          |
 |            Clemenceau            |    Nantes     |            [lequere.leandre@gmail.com](mailto:lequere.leandre@gmail.com)            |
