@@ -51,7 +51,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 |              Kléber              |  Strasbourg   |                               [indisponible](mailto:)                               |
 |     La Martinière Monplaisir     |     Lyon      |                 [jl10141516@gmail.com](mailto:jl10141516@gmail.com)                 |
 |              Lesage              |    Vannes     |              [k.guerin29460@gmail.com](mailto:k.guerin29460@gmail.com)              |
-|             Le Parc              |    Lyon 06    |              [indisponible](mailto:)              |
+|             Le Parc              |    Lyon 06    |                     [referent@hxi2.fr](mailto:referent@hxi2.fr)                     |
 |          Louis Le Grand          |   Paris 05    |                   [mp2i.llg@gmail.com](mailto:mp2i.llg@gmail.com)                   |
 |         Louis Thuillier          |    Amiens     |       [titouan.leveque@protonmail.com](mailto:titouan.leveque@protonmail.com)       |
 |            Montaigne             |   Bordeaux    |              [albin.comet@laposte.net](mailto:albin.comet@laposte.net)              |
