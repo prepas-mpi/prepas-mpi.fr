@@ -66,7 +66,7 @@ Comme un grand oral mais niveau prépa en y mettant beaucoup plus de temps de cu
 
 {{< right >}} *Jules, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 
-:(fas fa-solid fa-lightbulb fa-fw): **Pour plus d'information sur les TIPE, c'est par [ici](https://prepas-mp2i.fr/posts/tipe/).**
+{{< fa-icon solid lightbulb >}} **Pour plus d'informations sur les TIPE, c'est par [ici](https://prepas-mp2i.fr/posts/tipe/).**
 {{< /admonition >}}
 
 {{< admonition quote "As-tu continué une LVB en prépa ?" false >}}
