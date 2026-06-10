@@ -21,7 +21,7 @@ Les objectifs de l'association sont :
 
 - De **mettre en relation** et de créer des liens de solidarité entre les différents élèves et anciens élèves de la filière
 - De **promouvoir la filière** auprès des élèves de lycées devant choisir leur orientation Post-BAC, en particulier avec l'organisation d'un forum annuel
-- De mettre en relation des étudiants en recherche d'emploi après d'entreprises
+- De mettre en relation des étudiants en recherche d'emploi avec des entreprises
 - De **mettre à la disposition de tous une plateforme de discussion** sur Discord et **un site internet** en lien avec la filière
 
 ## Adhérer
