@@ -58,7 +58,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 |           Paul Valery            |   Paris 12    |                [draymonepro@gmail.com](mailto:draymonepro@gmail.com)                |
 |         Pierre De Fermat         |   Toulouse    |                               [indisponible](mailto:)                               |
 |           Saint-Louis            |   Paris 06    |            [contact.mp2i.sl@proton.me](mailto:contact.mp2i.sl@proton.me)            |
-|              Thiers              | Marseille 01  |                 [leo.kosman@proton.me](mailto:leo.kosman@proton.me)                 |
+|              Thiers              | Marseille 01  |                               [indisponible](mailto:)                               |
 |           Victor Hugo            |   Besançon    |          [alexis.chavy@protonmail.com](mailto:alexis.chavy@protonmail.com)          |
 
 ## Discord
