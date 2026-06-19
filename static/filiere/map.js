@@ -1,5 +1,5 @@
 var sharedAttribution = "© Custom from <a href='https://github.com/Yopi-em'>Yopi-em</a>";
-var OSMAttribution = "<br/>© Map data from <a href='https://www.openstreetmap.org/copyright>OpenStreetMap </a>"
+var OSMAttribution = "<br/> © Map data from <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a>";
 
 // -- Création du fond de carte --
 let map = new ol.Map({
