@@ -48,64 +48,50 @@ let schoolLayer = new ol.layer.Vector({
 });
 map.addLayer(schoolLayer);
 
-// -- Fonction de gestion de l'affichage des noms des gares en cliquant dessus  --
+// -- Fonction de gestion de l'affichage des infos des écoles en cliquant dessus  --
 
-// création d'un popup lorsque l'on clique sur une gare
+// création d'un popup lorsque l'on clique sur une école
 map.on('click', (evt) => {
-    /**
-     * Récupération des infos d'une gare sur le geoserver en cliquant dessus 
-     * @function
-     * @param {str} url - json
-     * @returns {number} Les inos du geoserver au format json.
-     */
     let features = map.forEachFeatureAtPixel(evt.pixel, function(features) {
         return features;
     });
-        /**
-         * Affichage ou supression d'un popup lorsque l'on clique sur une école
-         * @function
-         * @param {str} features - Les infos décodées.
-         * @param {str} el - gestion de l'affichage des données dans le html.
-         * @param {str} popup - Création d'un popup sur la carte dédié à l'école.
-         * @returns {popup} Le popup.
-         */
-        if (features) {
-                this.name = features.get('name');
-                this.city = features.get('city');
-                this.info = features.get('info');
-                this.capacity = features.get('capacity');
-                this.url = features.get('url');
-                console.log("object clicked");
-                 // génération d'un popup avec les informations de la gare cliquée
-                let el = document.createElement('div');
-                el.innerHTML = `<h3 style='text-align: center;'> ${this.name}, ${this.city}</h3>
-                <p> Nombre de places : ${this.capacity}</p>
-                <p> ${this.info}</p>
-                <p>Site web : <a href='https://www.${this.url}'>${this.url}</a></p>`;
-                el.style.cssText ="position: absolute;background-color: white;filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.2));padding: 10px; margin: 0px;border-radius: 10px;border: 1px solid #ccc;width: 400px;height: auto;";
+    if (features) {
+        // Récupération des infos de l'école.
+        this.name = features.get('name');
+        this.city = features.get('city');
+        this.info = features.get('info');
+        this.capacity = features.get('capacity');
+        this.url = features.get('url');
+        console.log("object clicked");
+
+        // génération d'un popup avec les informations de la gare cliquée
+        let el = document.createElement('div');
+        el.innerHTML = `<h3 style='text-align: center;'> ${this.name}, ${this.city}</h3>
+            <p> Nombre de places : ${this.capacity}</p>
+            <p> ${this.info}</p>
+            <p>Site web : <a href='https://www.${this.url}'>${this.url}</a></p>`;
+        el.style.cssText ="position: absolute;background-color: white;filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.2));padding: 10px; margin: 0px;border-radius: 10px;border: 1px solid #ccc;width: 400px;height: auto;";
                     
-                // création d'un overlay pour générer le popup
-                let popup = new ol.Overlay({
-                    element: el,
-                    autoPan : { animation : { duration:25} },
-                    positioning: 'bottom-center',
-                    offset: [0, 0],
-                });
-                map.addOverlay(popup);
-                popup.setPosition(evt.coordinate);
-
-                // fermeture du popup lorsque l'on clique n'importe où
-                map.on('click', function(evt) {
-                    popup.setPosition(undefined);
-                });
-            } else{
-                console.log("No object clicked")
-            }
-                
+        // création d'un overlay pour générer le popup
+        let popup = new ol.Overlay({
+                element: el,
+                autoPan : { animation : { duration:25} },
+                positioning: 'bottom-center',
+                offset: [0, 0],
         });
+        map.addOverlay(popup);
+        popup.setPosition(evt.coordinate);
+
+        // fermeture du popup lorsque l'on clique n'importe où
+        map.on('click', function(evt) {
+            popup.setPosition(undefined);
+        });
+    } 
+                
+});
 
 
-
+// Légende
 const legend = new ol.legend.Legend({
   title: '',
   margin: 5
@@ -119,7 +105,7 @@ const legendCtrl = new ol.control.Legend({
 
 map.addControl(legendCtrl);
 
-// Ajouter des éléments à la légende
+// Ajout des éléments à la légende
 legend.addItem({
   title: 'Lycées Publics',
   typeGeom: 'Point',
