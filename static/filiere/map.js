@@ -121,7 +121,7 @@ map.addControl(legendCtrl);
 
 // Ajouter des éléments à la légende
 legend.addItem({
-  title: 'Lycées Publiques',
+  title: 'Lycées Publics',
   typeGeom: 'Point',
   style: new ol.style.Style({
     image: new ol.style.Icon({
