@@ -74,10 +74,10 @@ map.on('click', (evt) => {
                     
         // création d'un overlay pour générer le popup
         let popup = new ol.Overlay({
-                element: el,
-                autoPan : { animation : { duration:25} },
-                positioning: 'bottom-center',
-                offset: [0, 0],
+            element: el,
+            autoPan : { animation : { duration:25} },
+            positioning: 'bottom-center',
+            offset: [0, 0],
         });
         map.addOverlay(popup);
         popup.setPosition(evt.coordinate);
@@ -86,55 +86,54 @@ map.on('click', (evt) => {
         map.on('click', function(evt) {
             popup.setPosition(undefined);
         });
-    } 
-                
+    }              
 });
 
 
 // Légende
 const legend = new ol.legend.Legend({
-  title: '',
-  margin: 5
+    title: '',
+    margin: 5
 });
 
 const legendCtrl = new ol.control.Legend({
-  legend: legend,
-  collapsed: false,
-  position: 'top-right'
+    legend: legend,
+    collapsed: false,
+    position: 'top-right'
 });
 
 map.addControl(legendCtrl);
 
 // Ajout des éléments à la légende
 legend.addItem({
-  title: 'Lycées Publics',
-  typeGeom: 'Point',
-  style: new ol.style.Style({
-    image: new ol.style.Icon({
-                src: 'img/iconB.png',
-                scale: 0.8
+    title: 'Lycées Publics',
+    typeGeom: 'Point',
+    style: new ol.style.Style({
+        image: new ol.style.Icon({
+            src: 'img/iconB.png',
+            scale: 0.8
+        })
     })
-  })
 });
 
 legend.addItem({
-  title: 'Lycées Privés',
-  typeGeom: 'Point',
-  style: new ol.style.Style({
-    image: new ol.style.Icon({
-                src: 'img/iconO.png',
-                scale: 0.8
+    title: 'Lycées Privés',
+    typeGeom: 'Point',
+    style: new ol.style.Style({
+        image: new ol.style.Icon({
+            src: 'img/iconO.png',
+            scale: 0.8
+        })
     })
-  })
 });
 
 legend.addItem({
-  title: 'Lycées ouvrants à la rentrée 2026',
-  typeGeom: 'Point',
-  style: new ol.style.Style({
-    image: new ol.style.Icon({
-                src: 'img/icon.png',
-                scale: 0.8
+    title: 'Lycées ouvrants à la rentrée 2026',
+    typeGeom: 'Point',
+    style: new ol.style.Style({
+        image: new ol.style.Icon({
+            src: 'img/icon.png',
+            scale: 0.8
+        })
     })
-  })
 });   
