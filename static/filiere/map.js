@@ -9,8 +9,8 @@ let map = new ol.Map({
     target: 'map',
     view: new ol.View({
         projection: 'EPSG:3857',
-        center: ol.proj.fromLonLat([4.84, 18.88]),
-        zoom: 2.5,
+        center: ol.proj.fromLonLat([2.25, 46.88]),
+        zoom: 5.5,
     }),
     layers: [
         new ol.layer.Tile({
@@ -66,11 +66,11 @@ map.on('click', (evt) => {
 
         // génération d'un popup avec les informations de la gare cliquée
         let el = document.createElement('div');
-        el.innerHTML = `<h3 style='text-align: center;'> ${this.name}, ${this.city}</h3>
+        el.innerHTML = `<h4 style='text-align: center; margin-top:0px'> ${this.name}, ${this.city}</h4>
             <p> Nombre de places : ${this.capacity}</p>
             <p> ${this.info}</p>
             <p>Site web : <a href='https://www.${this.url}'>${this.url}</a></p>`;
-        el.style.cssText ="position: absolute;background-color: white;filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.2));padding: 10px; margin: 0px;border-radius: 10px;border: 1px solid #ccc;width: 400px;height: auto;";
+        el.style.cssText ="position: absolute;background-color: rgba(255, 255, 255, 0.9);color:black;filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.2));padding: 10px; margin: 0px;border-radius: 5px;width: 400px;height: auto;";
                     
         // création d'un overlay pour générer le popup
         let popup = new ol.Overlay({
@@ -90,16 +90,59 @@ map.on('click', (evt) => {
 });
 
 
+// Ajout d'un count de lycées absents de la vue
+const countDiv = document.createElement('div');
+countDiv.className = 'ol-count';
+countDiv.style.padding = '5px 10px';
+countDiv.style.borderRadius = '5px'; 
+countDiv.style.position = 'absolute';
+countDiv.style.top = '10px';
+countDiv.style.right = '10px';
+countDiv.style.color = 'black';
+countDiv.style.backgroundColor = 'rgba(255,255,255,0.7)';
+countDiv.style.zIndex = '1000'; 
+countDiv.textContent = 'Lycées hors vue : ...';
+
+map.getViewport().appendChild(countDiv);
+const vectorSource = schoolLayer.getSource();
+
+// Fonction permettant de compter le nombre de lycées hors-champs
+function updateCountOutside() {
+    const view = map.getView();
+    const extent = view.calculateExtent(map.getSize());
+    const features = vectorSource.getFeatures();
+
+    let countOutside = 0;
+
+    // Vérifie pour chaque géométrie si elle intersecte la vue
+    features.forEach(feature => {
+        const geom = feature.getGeometry();
+        if (geom) {
+            if (!geom.intersectsExtent(extent)) {
+                countOutside++;
+            }
+        }
+    });
+    // Mise à jour du texte
+    countDiv.textContent = `Lycées hors vue : ${countOutside}`;
+    console.log(`Nombre d'entités hors de la carte : ${countOutside}`);
+}
+map.on('moveend', updateCountOutside);
+
+// Appel initial
+updateCountOutside();
+
+
+
+
 // Légende
 const legend = new ol.legend.Legend({
-    title: '',
     margin: 5
 });
 
 const legendCtrl = new ol.control.Legend({
     legend: legend,
     collapsed: false,
-    position: 'top-right'
 });
 
 map.addControl(legendCtrl);
