@@ -452,7 +452,7 @@ Les candidats passent uniquement les [épreuves orales du concours commun Mines-
 | [ENSIL-ENSCI Limoges]            | Mécatronique                                    |           2           |
 | 〃                               | Electronique et télécommunications              |           2           |
 | [ENSAI]                          | Civil                                           |           8           |
-| 〃                               | Fonctionnaire                                   |           2           |
+| 〃                               | Fonctionnaire                                   |           3           |
 | [CY-Tech Cergy-Pau]              | Informatique                                    |           6           |
 | 〃                               | Mathématiques appliquées                        |           4           |
 | [Clermont Auvergne INP - ISIMA]  |                                                 |          16           |
