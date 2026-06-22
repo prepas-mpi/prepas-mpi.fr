@@ -103,7 +103,7 @@ countDiv.style.right = '10px';
 countDiv.style.color = 'black';
 countDiv.style.backgroundColor = 'rgba(255,255,255,0.7)';
 countDiv.style.zIndex = '10'; 
-countDiv.textContent = 'Lycées hors vue : ...';
+countDiv.textContent = 'Lycées affichés : ...';
 
 map.getViewport().appendChild(countDiv);
 const vectorSource = schoolLayer.getSource();
