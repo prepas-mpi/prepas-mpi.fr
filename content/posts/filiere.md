@@ -107,13 +107,4 @@ _Données extraites grâce à [ce script python](/technical/parcoursup_extractio
 
 ## Les prépas MP2I en France
 
-<div id="map" style="height: 500px; width: auto; margin-top: 20px;">
-</div>
-
-
-<!-- Importation des javascript -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v10.8.0/ol.css">
-<script src="https://cdn.jsdelivr.net/npm/ol@v10.8.0/dist/ol.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/ol-ext@latest/dist/ol-ext.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol-ext@latest/dist/ol-ext.css" />
-<script src="/filiere/map.js"></script>
+{{< map js="/filiere/map.js" height="500px" id="map" >}}
