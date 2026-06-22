@@ -107,13 +107,4 @@ _Données extraites grâce à [ce script python](/technical/parcoursup_extractio
 
 ## Les prépas MP2I en France
 
-{{< iframe
-    src="https://www.google.com/maps/d/embed?mid=1pXdHQGWgtS2nt0b3GKk6wXcVqO6RuIY&ehbc=2E312F"
-    height=500px
->}}
-
-### Légende
-
-- _Vert_ : Lycées publics possédant une MP2I
-- _Orange_ : Lycées privés possédant une MP2I
-- _Bleu_ : Lycées ouvrant une MP2I à la rentrée 2025
+{{< map js="/filiere/map.js" height="500px" id="map" >}}

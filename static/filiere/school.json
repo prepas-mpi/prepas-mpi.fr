@@ -1,0 +1,675 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.048804, 47.323527]
+      },
+      "properties": {
+        "name": "Lycée Carnot",
+        "city": "Dijon",
+        "capacity": 48,
+        "info": "",
+        "url": "citescolcarnotdijon.fr",
+        "cat": "pub"
+      }
+    }, 
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.126988, 45.906398]
+      },
+      "properties": {
+        "name": "Lycée Berthollet",
+        "city": "Annecy",
+        "capacity": 24,
+        "info": "",
+        "url": "lycee-berthollet-annecy.web.ac-grenoble.fr",
+        "cat": "pub"
+      }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.520588, 50.363637]
+      },
+      "properties": {
+        "name": "Lycée Henri Wallon",
+        "city": "Valenciennes",
+        "capacity": 24,
+        "info": "",
+        "url": "lyceehenriwallon-valenciennes.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.158298, 50.725683]
+      },
+      "properties": {
+        "name": "Lycée Colbert",
+        "city": "Tourcoing",
+        "capacity": 26,
+        "info": "",
+        "url": "lyceecolbert-tg.org",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.870621, 45.739585]
+      },
+      "properties": {
+        "name": "Lycée La martinière Montplaisir",
+        "city": "Lyon 8e Arrondissement",
+        "capacity": 44,
+        "info": "",
+        "url": "lamartinieremonplaisir.org",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.041704, 43.620163]
+      },
+      "properties": {
+        "name": "Lycée Internationale de Valbonne",
+        "city": "Valbonne",
+        "capacity": 48,
+        "info": "",
+        "url": "civfrance.com",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.026502, 49.262752]
+      },
+      "properties": {
+        "name": "Lycée Franklin Roosvelt",
+        "city": "Reims",
+        "capacity": 48,
+        "info": "",
+        "url": "lycee-roosevelt-reims.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.279778, 48.865420]
+      },
+      "properties": {
+        "name": "Lycée Janson de Sailly",
+        "city": "Paris 16e Arrondissement",
+        "capacity": 48,
+        "info": "",
+        "url": "janson-de-sailly.fr",
+        "cat": "pub"
+      }
+    }, 
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.26233, 45.830051]
+      },
+      "properties": {
+        "name": "Lycée Gay-Lussac",
+        "city": "Limoges",
+        "capacity": 24,
+        "info": "Vive Limoges! :3",
+        "url": "lycee-gay-lussac-limoges.com",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.571839, 44.834498]
+      },
+      "properties": {
+        "name": "Lycée Montaigne",
+        "city": "Bordeaux",
+        "capacity": 48,
+        "info": "",
+        "url": "montaigne-bordeaux.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.857297, 45.771716]
+      },
+      "properties": {
+        "name": "Lycée du Parc",
+        "city": "Lyon 6e Arrondissement",
+        "capacity": 47,
+        "info": "",
+        "url": "lyceeduparc.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.341440, 48.849489]
+      },
+      "properties": {
+        "name": "Lycée Saint-Louis",
+        "city": "Paris 6e Arrondissement",
+        "capacity": 48,
+        "info": "",
+        "url": "lycee-saintlouis.ac-paris.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.753916, 48.594409]
+      },
+      "properties": {
+        "name": "Lycée Kléber",
+        "city": "Strasbourg",
+        "capacity": 48,
+        "info": "",
+        "url": "lycee-kleber.com.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.178553, 48.691202]
+      },
+      "properties": {
+        "name": "Lycée Henri Poincaré",
+        "city": "Nancy",
+        "capacity": 48,
+        "info": "",
+        "url": "h-poincare.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.884807, 43.611604]
+      },
+      "properties": {
+        "name": "Lycée Joffre",
+        "city": "Montpellier",
+        "capacity": 48,
+        "info": "",
+        "url": "lycee-joffre-montpellier.mon-ent-occitanie.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.298119, 49.876076]
+      },
+      "properties": {
+        "name": "Lycée Louis Thuillier",
+        "city": "Amiens",
+        "capacity": 48,
+        "info": "",
+        "url": "lycee-thuillier.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.977545, 47.218613]
+      },
+      "properties": {
+        "name": "Lycée Victor Hugo",
+        "city": "Besançon",
+        "capacity": 45,
+        "info": "",
+        "url": "lyc-vhugo-besancon.eclat-bfc.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.725619, 45.186925]
+      },
+      "properties": {
+        "name": "Lycée Champollion",
+        "city": "Grenoble",
+        "capacity": 48,
+        "info": "",
+        "url": "lycee-champollion.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.255358, 48.842009]
+      },
+      "properties": {
+        "name": "Lycée Claude Bernard",
+        "city": "Paris 16e Arrondissement",
+        "capacity": 48,
+        "info": "",
+        "url": "pia.ac-paris.fr/serail/jcms/s2_544112/fr/accueil",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.410227, 48.840232]
+      },
+      "properties": {
+        "name": "Lycée Paul Valéry",
+        "city": "Paris 12e Arrondissement",
+        "capacity": 48,
+        "info": "",
+        "url": "pia.ac-paris.fr/serail/jcms/s1_942748/fr/accueil",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.825946, 45.763922]
+      },
+      "properties": {
+        "name": "Lycée Aux Lazaristes",
+        "city": "Lyon 5e Arrondissement",
+        "capacity": 10,
+        "info": "",
+        "url": "auxlazaristeslasalle.fr",
+        "cat": "pv"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.439525, 43.603263]
+      },
+      "properties": {
+        "name": "Lycée Pierre de Fermat",
+        "city": "Toulouse",
+        "capacity": 48,
+        "info": "",
+        "url": "fermat.mon-ent-occitanie.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.382749, 43.296453]
+      },
+      "properties": {
+        "name": "Lycée Thiers",
+        "city": "Marseille 1er arrondissement",
+        "capacity": 48,
+        "info": "",
+        "url": "lyc-thiers.ac-aix-marseille.fr/spip",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.158209, 49.097467]
+      },
+      "properties": {
+        "name": "Lycée Jean XXIII",
+        "city": "Montigny-Lès-Metz", 
+        "capacity": 20,
+        "info": "",
+        "url": "jean23.com",
+        "cat": "pv"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.807193, 45.219152]
+      },
+      "properties": {
+        "name": "Lycée de la défense (Ecole des Pupilles de l'Air)",
+        "city": "Montbonnot-Saint-Martin",
+        "capacity": 9,
+        "info": "",
+        "url": "defense.gouv.fr/epae",
+        "cat": "new"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.130807, 45.762734]
+      },
+      "properties": {
+        "name": "Lycée La Fayette",
+        "city": "Clermont-Ferrand",
+        "capacity": 24,
+        "info": "",
+        "url": "lycee-lafayette-clermont.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.394273, 45.437895]
+      },
+      "properties": {
+        "name": "Lycée Claude-Fauriel",
+        "city": "Saint-Etienne",
+        "capacity": 48,
+        "info": "",
+        "url": "claude-fauriel.ent.auvergnerhonealpes.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.136774, 48.806226]
+      },
+      "properties": {
+        "name": "Lycée Hoche",
+        "city": "Versailles",
+        "capacity": 48,
+        "info": "",
+        "url": "lyc-hoche-versailles.ac-versailles.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.344662, 48.847936]
+      },
+      "properties": {
+        "name": "Lycée Louis Le Grand",
+        "city": "Paris 5e Arrondissement",
+        "capacity": 48,
+        "info": "",
+        "url": "louislegrand.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.371632, 43.834507]
+      },
+      "properties": {
+        "name": "Lycée Emmanuel d'Alzon",
+        "city": "Nîmes",
+        "capacity": 48,
+        "info": "",
+        "url": "dalzon.com",
+        "cat": "pv"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.318200, 48.878612]
+      },
+      "properties": {
+        "name": "Lycée Fénelon Sainte-Marie",
+        "city": "Paris 8e Arrondissement",
+        "capacity": 45,
+        "info": "",
+        "url": "fenelonsaintemarie.org",
+        "cat": "pv"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.365467, 46.568979]
+      },
+      "properties": {
+        "name": "Lycée Camille Guérin",
+        "city": "Poitiers",
+        "capacity": 48,
+        "info": "",
+        "url": "lyc-camilleguerin.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.770954, 47.647070]
+      },
+      "properties": {
+        "name": "Lycée Alain René Lesage",
+        "city": "Vannes",
+        "capacity": 48,
+        "info": "",
+        "url": "lycee-lesage.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.545600, 47.219481]
+      },
+      "properties": {
+        "name": "Lycée général Clémenceau",
+        "city": "Nantes",
+        "capacity": 48,
+        "info": "",
+        "url": "gclemenceau.paysdelaloire.e-lyco.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.689686, 47.391764]
+      },
+      "properties": {
+        "name": "Lycée Descartes",
+        "city": "Tours",
+        "capacity": 48,
+        "info": "",
+        "url": "lyc-descartes.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.076352, 50.614999]
+      },
+      "properties": {
+        "name": "Lycée Faidherbe",
+        "city": "Lille",
+        "capacity": 48,
+        "info": "",
+        "url": "faidherbe.org",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.796445, 50.280576]
+      },
+      "properties": {
+        "name": "Lycée Guy Mollet",
+        "city": "Arras",
+        "capacity": 24,
+        "info": "",
+        "url": "lyceeguymollet.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.407661, 50.330372]
+      },
+      "properties": {
+        "name": "Lycée Alfred Kastler",
+        "city": "Denain",
+        "capacity": 24,
+        "info": "",
+        "url": "lgt-alfred-kastler-denain.59.ac-lille.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.100825, 49.445161]
+      },
+      "properties": {
+        "name": "Lycée Pierre Corneille",
+        "city": "Rouen",
+        "capacity": 48,
+        "info": "",
+        "url": "lgcorneille-lyc.spip.ac-rouen.fr",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.088402, 50.639637]
+      },
+      "properties": {
+        "name": "Lycée Frédéric Ozanam",
+        "city": "Lille",
+        "capacity": 35,
+        "info": "",
+        "url": "groupe-ozanam-lille.fr",
+        "cat": "pv"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.470226, -20.887629]
+      },
+      "properties": {
+        "name": "Lycée Leconte-de-Lisle",
+        "city": "Saint-Denis",
+        "capacity": 24,
+        "info": "",
+        "url": "etab.ac-reunion.fr/lyc-leconte-de-lisle",
+        "cat": "pub"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.582079,16.265394]
+      },
+      "properties": {
+        "name": "Lycée Charles Coeffin",
+        "city": "",
+        "capacity": 48,
+        "info": "",
+        "url": "charlescoeffin.lyc.ac-guadeloupe.fr",
+        "cat": "pub"
+      }
+    }
+    ]
+}
