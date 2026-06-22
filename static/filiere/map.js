@@ -11,13 +11,15 @@ let map = new ol.Map({
         projection: 'EPSG:3857',
         center: ol.proj.fromLonLat([2.25, 46.88]),
         zoom: 5.5,
+        maxZoom: 18,    // Restricts maximum zoom level
+        minZoom: 2
     }),
     layers: [
         new ol.layer.Tile({
             source: new ol.source.XYZ({
                 url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
                 projection: 'EPSG:3857',
-                maxZoom: 19,
+                maxZoom: 18,
                 minZoom: 2,
                 attributions: [
                     OSMAttribution,
@@ -33,7 +35,7 @@ let schoolLayer = new ol.layer.Vector({
         url: 'school.json',
         format: new ol.format.GeoJSON()
     }),
-    minZoom: 2,
+    minZoom: 0,
     style: function (feature) {
         let cat = feature.get('cat')
         return new ol.style.Style({
@@ -100,37 +102,37 @@ countDiv.style.top = '10px';
 countDiv.style.right = '10px';
 countDiv.style.color = 'black';
 countDiv.style.backgroundColor = 'rgba(255,255,255,0.7)';
-countDiv.style.zIndex = '1000'; 
+countDiv.style.zIndex = '10'; 
 countDiv.textContent = 'Lycées hors vue : ...';
 
 map.getViewport().appendChild(countDiv);
 const vectorSource = schoolLayer.getSource();
 
 // Fonction permettant de compter le nombre de lycées hors-champs
-function updateCountOutside() {
+function updateCountInside() {
     const view = map.getView();
     const extent = view.calculateExtent(map.getSize());
     const features = vectorSource.getFeatures();
-
-    let countOutside = 0;
+    const featureTot = features.length;
+    let countInside = 0;
 
     // Vérifie pour chaque géométrie si elle intersecte la vue
     features.forEach(feature => {
         const geom = feature.getGeometry();
         if (geom) {
-            if (!geom.intersectsExtent(extent)) {
-                countOutside++;
+            if (geom.intersectsExtent(extent)) {
+                countInside++;
             }
         }
     });
     // Mise à jour du texte
-    countDiv.textContent = `Lycées hors vue : ${countOutside}`;
-    console.log(`Nombre d'entités hors de la carte : ${countOutside}`);
+    countDiv.textContent = `Lycées affichées : ${countInside}/${featureTot}`;
+    console.log(`Nombre d'entités hors de la carte : ${countInside}`);
 }
-map.on('moveend', updateCountOutside);
+map.on('moveend', updateCountInside);
 
 // Appel initial
-updateCountOutside();
+updateCountInside();
 
 
 
