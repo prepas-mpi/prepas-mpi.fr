@@ -126,7 +126,7 @@ function updateCountInside() {
         }
     });
     // Mise à jour du texte
-    countDiv.textContent = `Lycées affichées : ${countInside}/${featureTot}`;
+    countDiv.textContent = `Lycées affichés : ${countInside}/${featureTot}`;
     console.log(`Nombre d'entités hors de la carte : ${countInside}`);
 }
 map.on('moveend', updateCountInside);
