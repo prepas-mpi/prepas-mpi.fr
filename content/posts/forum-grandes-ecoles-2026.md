@@ -61,9 +61,9 @@ Cette année, 13 étudiants d'écoles participeront au forum ! Vous trouverez ci
 
 ### Mines-Ponts
 
-|  Télécom Paris | Télécom Paris |
-| :------------: |:------------: |
-| Pacôme | Wallt |   
+|  Télécom Paris | Télécom Paris | ENSTA |
+| :------------: |:------------: | :---: |
+| Pacôme | Wallt | zolak30 |
 
 ### Mines-Télécom
 
