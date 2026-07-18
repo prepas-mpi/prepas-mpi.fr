@@ -1,14 +1,9 @@
 ---
 title: Forum 2026 des étudiants en MP2I/MPI
-url: /forum
 slug: forum-2026
 date: 2026-01-16T13:00:00+01:00
 author: Triw
 summary: Page de présentation du forum 2026. Vous y trouverez toutes les informations concernant le forum de la filière MPI-MP2I, édition 2026.
-menu:
-    main:
-        name: Forum
-        weight: 5
 tags:
     - lycéens
 categories:
