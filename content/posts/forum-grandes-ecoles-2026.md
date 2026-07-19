@@ -45,13 +45,13 @@ Cette deuxième édition a lieu intégralement sur [Discord](https://discord.pre
 
 ## Intervenants
 
-Cette année, 13 étudiants d'écoles participeront au forum ! Vous trouverez ci-dessous la liste des 22 étudiants et étudiantes qui interviendront lors du forum, avec les écoles qu'ils représentent :
+Cette année, 18 étudiants d'écoles participeront au forum ! Vous trouverez ci-dessous la liste des 22 étudiants et étudiantes qui interviendront lors du forum, avec les écoles qu'ils représentent :
 
 ### X/ENS
 
-| ENS Rennes | ENS de Lyon | ENS Ulm |
-| :--------: |:----------: | :-----: |
-| Joachim    | Maya        |  Pierre |
+| ENS Rennes | ENS de Lyon | ENS Ulm | Polytechnique | ENS Paris Saclay | ENS Ulm |
+| :--------: |:----------: | :-----: | :-----: | :-----: | :-----: |
+| Joachim    | Maya        |  Pierre | Alexandre | Anaïs | Matéo |
 
 ### CentraleSupélec
 
@@ -63,13 +63,13 @@ Cette année, 13 étudiants d'écoles participeront au forum ! Vous trouverez ci
 
 |  Télécom Paris | Télécom Paris | ENSTA |
 | :------------: |:------------: | :---: |
-| Pacôme | Wallt | zolak30 |
+| Pacôme | Wallt | Pierre |
 
 ### Mines-Télécom
 
-|  Télécom Nancy | EURECOM Sophia-Antipolis | Géodata Paris (ex ENSG - Géomatique) |
-| :------------: | :------------: | :------------: |
-| Edwyn | Antoine | Emma |
+|  Télécom Nancy | EURECOM Sophia-Antipolis | Géodata Paris (ex ENSG - Géomatique) | Télécom SudParis |
+| :------------: | :------------: | :------------: | :------------: |
+| Edwyn | Antoine | Emma | Tristan |
 
 ### CCINP / e3a
 
