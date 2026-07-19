@@ -20,6 +20,10 @@ Cette page concerne le forum **des Grandes Écoles** accessibles après une MPI,
 Si vous êtes au lycée et que vous êtes intéressés par la MP2I, les informations concernant le forum de la filière sont disponibles sur [cette page](/posts/forum-2026).
 {{< /admonition >}}
 
+{{< admonition info "Forum terminé" >}}
+Le forum des Grandes Écoles 2026 est terminé ! Merci à tous pour votre participation !
+{{< /admonition >}}
+
 {{< figure
     caption="Réalisée par Emma"
     src="/images/forum/affiche_forum2026.png"
@@ -34,7 +38,7 @@ De la même façon que le forum dédié à renseigner les lycéen(ne)s sur la MP
 
 Ce forum se tiendra le 19 Juillet 2026, de 14h à 17h.
 
-Cette deuxième édition a lieu intégralement sur [Discord](https://discord.prepas-mp2i.fr) et sera séparée en 4 stands distincts:
+Cette deuxième édition a eu lieu intégralement sur [Discord](https://discord.prepas-mp2i.fr) et a été séparée en 4 stands distincts:
 
 - Le stand ENS
 - Le stand Centrale/Ponts
@@ -45,7 +49,7 @@ Cette deuxième édition a lieu intégralement sur [Discord](https://discord.pre
 
 ## Intervenants
 
-Cette année, 18 étudiants d'écoles participeront au forum ! Vous trouverez ci-dessous la liste des 22 étudiants et étudiantes qui interviendront lors du forum, avec les écoles qu'ils représentent :
+Cette année, 18 étudiants d'écoles ont participé au forum ! Vous trouverez ci-dessous la liste des 22 étudiants et étudiantes qui sont interviendus lors du forum, avec les écoles qu'ils ont représenté :
 
 ### X/ENS
 
@@ -79,7 +83,7 @@ Cette année, 18 étudiants d'écoles participeront au forum ! Vous trouverez ci
 
 
 
-_Organisation par Antoine, président de l'association des Étudiants en CPGE MP2I/MPI_
+_Organisé par Antoine, président de l'association des Étudiants en CPGE MP2I/MPI_
 
 ## Forums précédents
 
