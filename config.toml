@@ -103,6 +103,7 @@ enableEmoji = true
     GitHub = "prepas-mpi/prepas-mp2i.fr"
     Email = "contact@prepas-mp2i.fr"
     Discord = "discord.prepas-mp2i.fr/"
+    Instagram = "instagram.com/asso_mp2i_mpi_france"
     
   [params.page]
     linkToMarkdown = false

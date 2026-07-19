@@ -24,3 +24,12 @@ discord:
   Newtab: true
   Icon:
     Src: /svg/discord.svg
+
+# 004: Instagram
+instagram:
+  Weight: 4
+  Prefix: https://
+  Title: Instagram
+  Newtab: true
+  Icon:
+    Simpleicons : instagram
