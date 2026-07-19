@@ -66,7 +66,7 @@ Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord
             | Secrétaire spécialisé Site |   | Secrétaire spécialisée |   | Secrétaire spécialisé |
             |   Alessandre (alessevan)   |   |       Marketing        |   |     Communication     |
             +----------------------------+   |   Emma (lambdaniris)   |   |    Adam ( .linghun)   |
-                                            +------------------------+   +-----------------------+
+                                             +------------------------+   +-----------------------+
 ```
 
 ## Documents relatifs à l'association
