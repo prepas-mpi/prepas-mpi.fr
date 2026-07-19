@@ -42,13 +42,34 @@ Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord
 
 ## Composition du conseil d'administration
 
-{{< figure
-    caption="Diagramme de gestion de l'association"
-    src="/images/organigramme.png"
-    class="invert"
->}}
+```goat
++---------------------------------------------------------------------------------------------------------+
+|                                                Le Bureau                                                |
+|                                                                                                         |
+|                                     +----------------------------+                                      |
+|                                     |         Président          |                                      |
+|                                     | Antoine C. (dani_leriston) |                                      |
+|                                     +--------------+-------------+                                      |
+|                                                    |                                                    |
+|            +-------------------------+-------------+-------------+-------------------------+            |
+|            |                         |                           |                         |            |
+|  +---------+--------+   +------------+------------+   +----------+----------+   +----------+---------+  |
+|  |  Vice-président  |   |      Vice-président     |   | Secrétaire générale |   |     Trésorier      |  |
+|  | Tristan (triw12) |   | Tom B. (Bobo - haerros) |   |    Nozaé (nozae)    |   | Jeremy (jejeworld) |  |
+|  +------------------+   +-------------------------+   +----------+----------+   +--------------------+  |
+|                                                                  |                                      |
++------------------------------------------------------------------+--------------------------------------+
+                                                                   |
+                        +------------------------------+-----------+---------------+
+                        |                              |                           |
+            +--------------+-------------+   +------------+-----------+   +-----------+-----------+
+            | Secrétaire spécialisé Site |   | Secrétaire spécialisée |   | Secrétaire spécialisé |
+            |   Alessandre (alessevan)   |   |       Marketing        |   |     Communication     |
+            +----------------------------+   |   Emma (lambdaniris)   |   |    Adam ( .linghun)   |
+                                            +------------------------+   +-----------------------+
+```
 
 ## Documents relatifs à l'association
 
-- [Règlement intérieur](/documents/association/Reglement_interieur.pdf)
 - [Statuts](/documents/association/Statuts.pdf)
+- [Règlement intérieur](/documents/association/Reglement_interieur.pdf)
