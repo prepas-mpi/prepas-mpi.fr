@@ -227,7 +227,7 @@ Je ne savais pas trop quoi faire après le BAC mais j'étais intéressé par la 
 {{< admonition quote "Quels sont les prix d’une école d’ingénieur post-prépa ?" false >}}
 L’avantage principal est que les frais de scolarité ne sont pas aussi exorbitants que ceux des écoles de commerce. Plusieurs écoles publiques sont abordables car le prix est fixé par le ministère de l’Enseignement Supérieur, qui l'indexe sur celui des universités, soit 601 €/an. C’est notamment le cas de la plupart des écoles relevant du concours CCINP, comme l'ENSIMAG et l'ENSEEIHT (N7) (deux très bonnes écoles d’informatique), ou encore certaines INSA et Arts et Métiers.
 
-Pour les ENS et Polytechnique, il n’y a pas de frais de scolarité (et elles peuvent même vous rémunérer contre un engagement décennal). Pour les autres écoles, le prix varie entre le plafond de 601 €/an et 4950 €/an pour l'ISAE-SupAéro, l'une des écoles publiques les plus chères.
+Pour les ENS et Polytechnique, il n’y a pas de frais de scolarité (et elles peuvent même vous rémunérer contre un engagement décennal). Pour les autres écoles, le prix varie beaucoup en fonction des écoles.
 
 Il existe aussi de très bonnes écoles dont les frais de scolarité sont "raisonnables", entre 1500 € et 2500 € par an. C’est le cas de la plupart des écoles. Toutes les écoles du groupe Centrale ont des frais de scolarité fixés à 2500 €/an, sauf CentraleSupélec qui est à 3500 €/an.
 
