@@ -16,7 +16,7 @@ categories:
 
 Les informations sur les concours pour la filière MPI ont été regroupées à partir des sites officiels des concours et des notices de ces derniers. Vous y trouverez les notices en question, le nombre de places pour chaque école et la liste des épreuves écrites et orales qu'il vous faudra affronter en fin de seconde année.
 
-> Retrouvez les sujets des années précédentes sur [cette page](https://prepas-mp2i.fr/posts/sujets-des-concours-mpi).
+> Retrouvez les sujets des années précédentes sur [cette page](/posts/sujets-des-concours-mpi).
 
 {{< admonition warning "Attention !" true >}}
 Les informations présentes sur cette page ne sont pas exhaustives ; elles permettent seulement un aperçu rapide, et ne sont pas nécessairement à jour. Référez-vous systématiquement aux notices de l'année en cours pour garantir la fiabilité et la précision de vos informations.
@@ -116,7 +116,7 @@ Site officiel [Ulm](https://www.ens.psl.eu) / [Paris-Saclay](https://ens-paris-s
 
 ### Épreuves écrites
 
-Les épreuves de **Mathématiques A**, d'**Informatique C**, de **Physique MPI**, de **Français** et de **Langue Vivante** sont communes au [concours Polytechnique](https://prepas-mp2i.fr/concours/#épreuves-écrites-1).
+Les épreuves de **Mathématiques A**, d'**Informatique C**, de **Physique MPI**, de **Français** et de **Langue Vivante** sont communes au [concours Polytechnique](/concours/#épreuves-écrites-1).
 
 |          Épreuve          | Durée |
 | :-----------------------: | :---: |
@@ -154,7 +154,7 @@ Il est cependant possible de valider une Licence 3 de mathématiques à l'univer
 
 ### Épreuves orales
 
-L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytechnique](https://prepas-mp2i.fr/concours/#%C3%A9preuves-orales).
+L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytechnique](/concours/#%C3%A9preuves-orales).
 
 |      Épreuve      | Durée  | Préparation |
 | :---------------: | :----: | :---------: |
@@ -404,7 +404,7 @@ Les concours ne sont pas les seuls moyens d'intégrer les ENS, il existe égalem
 
 ### Épreuves écrites
 
-Elles sont identiques aux [épreuves du concours commun Mines-Ponts](https://prepas-mp2i.fr/concours/#épreuves-écrites-3), ainsi que leur coefficient.
+Elles sont identiques aux [épreuves du concours commun Mines-Ponts](/concours/#épreuves-écrites-3), ainsi que leur coefficient.
 
 ### Épreuves orales
 
@@ -415,7 +415,7 @@ Les épreuves orales sont divisées en **2 groupes** :
 
 #### Admissible Mines-Ponts
 
-Les candidats passent uniquement les [épreuves orales du concours commun Mines-Ponts](https://prepas-mp2i.fr/concours/#épreuves-orales-3).
+Les candidats passent uniquement les [épreuves orales du concours commun Mines-Ponts](/concours/#épreuves-orales-3).
 
 #### Admissible Mines Télécom uniquement
 
@@ -741,7 +741,7 @@ nombres de places sur la rubrique « Inter-filière » du scei. L’avancement d
 
 ### Épreuves écrites
 
-Les épreuves d'**Informatique**, de **Français-Philosophie** et de **Langue Vivante A** et **B** sont communes aux [épreuves du concours CCINP](https://prepas-mp2i.fr/concours/#épreuves-écrites-5).
+Les épreuves d'**Informatique**, de **Français-Philosophie** et de **Langue Vivante A** et **B** sont communes aux [épreuves du concours CCINP](/concours/#épreuves-écrites-5).
 
 |     Épreuve     | Durée |                                    Format                                    |
 | :-------------: | :---: | :--------------------------------------------------------------------------: |
@@ -774,5 +774,5 @@ Pour les autres écoles, il y a un **entretien** affecté des coefficients suiva
 
 \**En partenariat avec l’ISPA*
 
-[TIPE]: https://prepas-mp2i.fr/posts/tipe/#le-tipe-tétraconcours
-[TIPEENS]: https://prepas-mp2i.fr/posts/tipe/#le-tipe-ens
+[TIPE]: /posts/tipe/#le-tipe-tétraconcours
+[TIPEENS]: /posts/tipe/#le-tipe-ens
