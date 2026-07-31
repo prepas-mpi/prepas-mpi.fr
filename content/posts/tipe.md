@@ -124,15 +124,19 @@ Quelques conseils supplémentaires pour votre présentation :
 Les exemples présentés ici sont de vrais  TIPE d'étudiants en MPI. Les droits leurs sont réservés : merci de ne pas réutiliser ou plagier leurs travaux.
 {{< /admonition >}}
 
+*Proposez-nous le vôtre par [mail](mailto:contact@prepas-mp2i.fr) ou sur notre [discord](https://discord.prepas-mp2i.fr/) !*
+
 ### 2026 : Cycles, boucles
 
-*Exemples disponibles à l'été 2026.*
+#### Tétraconcours
+
+| Titre | Étudiant.e | Présentation | MCOT | Notes |
+| :---: | :--------: | :----------: | :--: | :----: |
+| Du Rubik’s Cube au Square-1 Structure combinatoire et Recherche du nombre de Dieu | Rémi Chandon | [![TIPE_Remi_Chandon.pdf](/icons/gallery.ico)](/documents/TIPE/2026/TIPE_Remi_Chandon.pdf) | [![MCOT_Remi_Chandon.pdf](/icons/document.ico)](/documents/TIPE/2026/MCOT_Remi_Chandon.pdf) | - |
 
 ### 2025 : Transition, transformation, conversion
 
 Le thème de l'année 2025 est vaste et peut être abordé de nombreuses façons différentes. Originalité et créativité sont de mise !
-
-*Proposez-nous le vôtre par [mail](mailto:contact@prepas-mp2i.fr) ou sur notre [discord](https://discord.prepas-mp2i.fr/) !*
 
 #### Tétraconcours
 
