@@ -60,9 +60,9 @@ Tu verras en prépa que la quantité d’exercices proposée par les professeurs
 {{< right >}} *Antoine, Eurecom 2A, (2026)* {{< /right >}}
 {{< /admonition >}}
 
-{{< admonition warning "Les erreurs de l'IA" true >}}
-Si jamais vous utilisez l'IA pour travailler, il est probable que les LLM vous donnent une solution qui "fonctionne" (quand ils ne divaguent pas) sur le papier mais dépassant le programme de prépa.
-Par exemple, si vous l'utilisez pour l'informatique, elle pourrait vous suggérer d'utiliser des [VLA](https://en.wikipedia.org/wiki/Variable-length_array), ce qui est strictement interdit en prépa. Si vous l'utilisez, portez donc beaucoup d'attention au contenu généré.
+
+{{< admonition warning "La méconnaissance du programme des IA" true >}}
+Les LLMs n'ont pas connaissance du programme de prépa et tendent à répondre avec des choses hors programmes / inadaptées (ex : utiliser des [VLA](https://en.wikipedia.org/wiki/Variable-length_array) pour de l'info alors que c'est interdit). Leur utilisation est de fait contre productive et donc à éviter.
 {{< /admonition >}}
 
 ## Problèmes de l'IA
@@ -96,8 +96,7 @@ De plus, ces modèles ont aussi un [impact humain](https://muse.jhu.edu/article/
 
 L'IA consomme... et énormément, tant de l'électricité que de l'eau.
 
-Par exemple pour l'électricité : [Google a signé un accord pour utiliser des petits réacteurs nucléaires aux US](https://www.bbc.com/news/articles/c748gn94k95o) ou [Elon Musk utilise des groupes électrogènes pour Colossus](https://www.theguardian.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis).
-
-Pour l'eau : [Article de l'ONU sur la consommation des data centers IA](https://news.un.org/en/story/2026/06/1167658).
+- pour l'électricité : [Google a signé un accord pour utiliser des petits réacteurs nucléaires aux US](https://www.bbc.com/news/articles/c748gn94k95o) ou [Elon Musk utilise des groupes électrogènes pour Colossus](https://www.theguardian.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis).
+- pour l'eau : [Article de l'ONU sur la consommation des data centers IA](https://news.un.org/en/story/2026/06/1167658).
 
 Utiliser une IA locale est aussi meilleur pour l'environnement, car (à priori) votre ordinateur ne consomme pas d'eau pour refroidir. 
