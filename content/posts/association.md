@@ -37,7 +37,7 @@ Le titre de "Membre Honoraire" peut être accordé sur demande aux professeurs d
 {{< /admonition >}}
 
 {{< admonition question "Un problème ?" true >}}
-Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord](https://discord.com/invite/kVMcJQujZW) ou par mail [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr)
+Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord](https://discord.prepas-mp2i.fr) ou par mail [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr)
 {{< /admonition >}}
 
 ## Composition du conseil d'administration
