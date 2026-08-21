@@ -94,4 +94,4 @@ Par exemple pour l'électricité : [Google a signé un accord pour utiliser des 
 
 Pour l'eau : [Article de l'ONU sur la consommation des data centers IA](https://news.un.org/en/story/2026/06/1167658).
 
-Utiliser une IA locale est ici aussi meilleur pour l'environnement, car (à priori) votre ordinateur ne consomme pas d'eau pour refroidir. 
+Utiliser une IA locale est aussi meilleur pour l'environnement, car (à priori) votre ordinateur ne consomme pas d'eau pour refroidir. 
