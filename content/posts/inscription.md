@@ -49,7 +49,7 @@ Les résultats du Bac dans ces spécialités mais aussi les appréciations ont u
 {{< admonition question "Peut-on intégrer une MP2I si l'on n'a pas suivi l'une des deux spécialités en Première ?" >}}
 Ne pas avoir suivi la spécialité NSI ne sera pas un frein, notamment parce que cela ne peut être exigé, étant donné que certains lycées ne proposent pas cette spécialité.
 
-Cependant, bien qu'il reste possible dans de rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite. Il est fortement conseillé aux élèves admis dans ces conditions de se renseigner sur le [programme de Physique de Première](file:///home/nozae/T%C3%A9l%C3%A9chargements/spe635_annexe_1063432.pdf).
+Cependant, bien qu'il reste possible dans de rares cas d'intégrer une MP2I sans avoir suivi la spécialité Physique-Chimie en Première, ce choix ne garantit pas une place en CPGE et risque d'entrainer un retard difficile à combler par la suite. Il est fortement conseillé aux élèves admis dans ces conditions de se renseigner sur le [programme de Physique de Première](https://www.education.gouv.fr/sites/default/files/document/Programme%20de%20physique-chimie%20de%20premi%C3%A8re%20g%C3%A9n%C3%A9rale-251859.pdf).
 {{< /admonition >}}
 
 ## Parcoursup
@@ -61,7 +61,7 @@ Cependant, bien qu'il reste possible dans de rares cas d'intégrer une MP2I sans
 ### La MP2I sur Parcoursup
 
 Depuis décembre, vous avez accès au catalogue des formations disponibles avec leurs critères de sélection, en quoi elles consistent et leur sélectivité.
-Fin janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation. N'hésitez pas à nous rejoindre sur le [serveur discord des prépas MP2I/MPI](https://discord.com/invite/9p49Z5ZNtH) pour poser vos questions ! Nous organisons également des [forums](https://prepas-mp2i.fr/forum/) pendant lesquels des étudiants volontaires du serveur vous présentent la filière et répondent à vos interrogations.
+Fin janvier, vous allez commencer à faire vos vœux, c'est le moment de se renseigner et d'aller aux portes ouvertes, en ligne ou en présentiel, rien de mieux que d'échanger avec les élèves pour se faire une idée de la formation. N'hésitez pas à nous rejoindre sur le [serveur discord des prépas MP2I/MPI](https://discord.prepas-mp2i.fr) pour poser vos questions ! Nous organisons également des [forums](https://prepas-mp2i.fr/forum/) pendant lesquels des étudiants volontaires du serveur vous présentent la filière et répondent à vos interrogations.
 
 Il y a **38 MP2I** sur Parcoursup, répertoriées [plus bas](https://prepas-mp2i.fr/inscription/#lyc%C3%A9es-proposant-la-fili%C3%A8re-mp2i) ; cela va de prépas très sélectives à d'autres beaucoup moins, donc faites des vœux divers pour vous assurer d'avoir une place en MP2I, si c'est la formation que vous désirez absolument (vous n'irez pas tous et toutes à Louis le Grand, soyons réalistes, mais il faut garder de l'ambition).
 Si vous faites des choix de formations sélectives - et les classes préparatoires en font partie - il est très fortement recommandé de demander une licence en parallèle pour éviter de finir sans aucune formation.
@@ -126,7 +126,7 @@ En temps qu'étudiant.e, vous pouvez demander une bourse sur critères sociaux. 
 - La nationalité
 - Les ressources
 
-Vous pouvez calculer votre droit à la bourse sur [etudiant.gouv.fr](http://www.etudiant.gouv.fr/cid97527/simulateur-de-bourse.html).
+Vous pouvez calculer votre droit à la bourse sur [etudiant.gouv.fr](https://www.lescrous.fr/nos-services/une-offre-de-services-riche-et-de-qualite-pour-tous-les-etudiants/#simulateur-de-bourse-testez-votre-eligibilite).
 
 Plus d'informations sur [service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F12214).
 
