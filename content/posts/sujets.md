@@ -13,11 +13,11 @@ categories:
 {{< admonition note "Toutes les annales" true >}}
 Retrouvez les sujets et les rapports de jury de toutes les épreuves sur les sites des concours :
 
-- [X-ENS](https://www.polytechnique.edu/admission-cycle-ingenieur/documentation/sujets-rapports-statistiques)
-- [Mines-ponts](https://www.concoursminesponts.fr/page-6/)
-- [Centrale-Supélec](https://www.concours-centrale-supelec.fr/CentraleSupelec)
+- [X-ENS](https://www.polytechnique.edu/admission-cycle-ingenieur/sujets-et-rapports)
+- [Mines-ponts](https://concoursminesponts.fr/annales/)
+- [Centrale-Supélec](https://www.concours-centrale-supelec.fr/sujets-rapports)
 - [CCINP](https://www.concours-commun-inp.fr/fr/epreuves/annales.html)
-- [e3a-polytech](https://www.e3a-polytech.fr/annales-et-rapports/)
+- [e3a-polytech](www.e3a-polytech.fr/annales-et-rapport/)
 {{< /admonition >}}
 
 {{< admonition tip "Exercices d'oraux" true >}}
