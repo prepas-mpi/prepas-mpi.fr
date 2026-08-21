@@ -56,7 +56,7 @@ Créer du contenu d'entraînement chez soi à l'aide de l'IA est... facile, mais
 Le risque de remplacer la recherche par la consultation de corrigés.
 Pour progresser, il est essentiel de passer du temps à chercher : rester bloqué sur un exercice, essayer différentes pistes, constater que certaines ne fonctionnent pas et comprendre pourquoi. Ce travail de recherche fait pleinement partie de l’apprentissage. Or, lorsqu’un corrigé détaillé est disponible immédiatement, la tentation est grande de l’obtenir dès que l’on rencontre une difficulté. L’élève peut alors multiplier les exercices et les corrigés sans consacrer suffisamment de temps à la recherche personnelle. Il risque ainsi de remplacer un travail intellectuel difficile mais formateur par une forme de bachotage de corrigés, beaucoup moins utile.
 {{< right >}} *M. Fayard, (2026)* {{< /right >}}
-Tu verras en prépa que la quantité d’exercices proposée par les professeurs est déjà bien trop conséquente pour parvenir à tous les résoudre. Si tu y arrives, ce sera déjà très bien.
+Tu verras en prépa que la quantité d’exercices proposée par les professeurs est déjà bien trop conséquente pour parvenir à tous les résoudre. Si tu y arrives, ce sera déjà très bien, mais ils seront sans doute ravis de t’en proposer davantage eux-mêmes.
 {{< right >}} *Antoine, Eurecom 2A, (2026)* {{< /right >}}
 {{< /admonition >}}
 
