@@ -13,7 +13,7 @@ categories:
 Cette page regroupe des informations sur l'utilisation de l'IA en MP2I et en MPI, en recoupant des informations d'[une discussion](https://discord.com/channels/872138069594214410/1536317927694012436) sur le discord. Elle est destinée aussi bien à des préparationnaires qu'à des lycéens.
 
 {{< admonition warning "Disclaimer" true >}}
-L'objectif est ici de discuter de l'utilité et des utilisations possibles de l'intelligence artificielle en MP2I/MPI de façon objective et dans aucun cas de descendre l'un ou l'autre des opinions.
+L'objectif est ici de discuter de l'utilité et des utilisations possibles de l'intelligence artificielle en MP2I/MPI de façon objective et dans aucun cas de discréditer l'un ou l'autre des opinions.
 {{< /admonition >}}
 
 {{< admonition quote "Les dangers de l'IA en une phrase" false >}}
@@ -85,6 +85,12 @@ En ce qui concerne "obtenir des nouveaux exercices pour s'entraîner" comme j'ai
 À moins d'utiliser une IA locale (ex : via ollama ou programme similaire), discuter avec un LLM c'est accepter qu'il s'entraine sur ce qu'on lui donne et que les entreprises derrière ces chatbots collectent tout ce qu'on dit.
 
 Le problème disparait dans le cas où vous utilisez de l'IA locale, mais encore faut-il avoir le matériel nécessaire pour la faire tourner, les modèles grossisant très vite en taille.
+
+### Conscience Morale
+
+L'IA a "appris" tout ce qu'elle "sait" en consommant du travail humain, souvent collecté de façon illicite (livres, films, musiques...), profiter de l'IA c'est donc légitimer le vol de la propriété intellectuelle à des fins commerciales.
+
+De plus, ces modèles ont aussi un [impact humain](https://muse.jhu.edu/article/950958), notamment car pour entraîner des LLM les grandes compagnies sous-payent des travailleurs dans des pays comme l'Inde.  
 
 ### Conscience par rapport à l'environnement
 
