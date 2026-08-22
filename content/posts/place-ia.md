@@ -106,3 +106,7 @@ Pour l'électricité : [Google a signé un accord pour utiliser des petits réac
 Pour l'eau : [Article de l'ONU sur la consommation des data centers IA](https://news.un.org/en/story/2026/06/1167658).
 
 Utiliser une IA locale est aussi meilleur pour l'environnement, car (à priori) votre ordinateur ne consomme pas d'eau pour se refroidir. 
+
+## Le mot de la fin
+
+Utiliser l'Intelligence Artificielle en MP2I/MPI pour corriger des exercices en chaîne ou faire votre travail n'est pas une bonne idée, cela va à l'encontre de l'objectif principal de la prépa : apprendre. Chaque utilisation qu'on pourrait en faire est inutile car déjà couverte par la prépa. Enfin, faire soi-même est fondamental pour s'améliorer et performer aux concours.
