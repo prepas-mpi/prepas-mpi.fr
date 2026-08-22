@@ -93,7 +93,7 @@ Cependant, le problème disparait dans le cas où vous utilisez de l'IA locale, 
 
 ### Conscience morale
 
-L'IA a "appris" tout ce qu'elle "sait" en consommant du travail humain, souvent [collecté de façon illicite](https://www.theguardian.com/books/2026/jul/14/publishers-sue-google-gemini-ai-training) (livres, films, musiques...), profiter de l'IA c'est donc légitimer le vol de la propriété intellectuelle à des fins commerciales.
+L'IA a "appris" tout ce qu'elle "sait" en consommant du travail humain, souvent [collecté de façon illicite](https://www.theguardian.com/technology/2025/jun/26/meta-wins-ai-copyright-lawsuit-as-us-judge-rules-against-authors) (livres, films, musiques...), profiter de l'IA c'est donc légitimer le vol de la propriété intellectuelle à des fins commerciales.
 
 De plus, ces modèles ont aussi un [impact humain](https://muse.jhu.edu/article/950958), notamment car pour entraîner des LLM les grandes compagnies sous-payent des travailleurs dans des pays comme l'Inde.  
 
