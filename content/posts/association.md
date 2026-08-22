@@ -29,7 +29,7 @@ Les objectifs de l'association sont :
 L'association est ouverte à tous les étudiants actuels de CPGE MP2I et MPI, ainsi qu'aux anciens étudiants de CPGE MP2I et/ou MPI.
 
 {{< style "text-align:center; font-size: 1.5em; margin: 1em" >}}
-**[Adhérer à l'association](https://www.helloasso.com/associations/association-des-etudiants-en-classes-preparatoires-aux-grandes-ecoles-mp2i-mpi/adhesions/adhesion-annuelle-2025-2026)**
+**[Adhérer à l'association](https://www.helloasso.com/associations/association-des-etudiants-en-classes-preparatoires-aux-grandes-ecoles-mp2i-mpi/adhesions/adhesion-annuelle-2026-2027)**
 {{< /style >}}
 
 {{< admonition info "Professeurs" true >}}
