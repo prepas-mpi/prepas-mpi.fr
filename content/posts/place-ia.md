@@ -10,7 +10,7 @@ categories:
   - Ressources
 ---
 
-Cette page regroupe des informations sur l'utilisation de l'IA en MP2I et en MPI, en recoupant des informations d'[une discussion](https://discord.com/channels/872138069594214410/1536317927694012436) sur le Discord. Elle est destinée aussi bien à des préparationnaires qu'à des lycéens.
+Cette page regroupe des informations sur l'utilisation de l'IA en MP2I et en MPI, en recoupant des messages issus d'[une discussion](https://discord.com/channels/872138069594214410/1536317927694012436) sur le Discord. Elle est destinée aussi bien à des préparationnaires qu'à des lycéens.
 
 {{< admonition warning "Disclaimer" true >}}
 L'objectif est ici de discuter de l'utilité et des utilisations possibles de l'intelligence artificielle en MP2I/MPI du point de vue des étudiants et des professeurs. Le tout en respectant chacune des opinions.
@@ -62,7 +62,7 @@ Pour progresser, il est essentiel de passer du temps à chercher : rester bloqu�
 
 ---
 
-En prépa, la quantité d’exercices proposée par les professeurs est déjà bien trop conséquente pour parvenir à tous les résoudre. Y arriver serait déjà très bien, et les professeurs seront sans doute ravis d’en proposer davantage eux-mêmes.
+En prépa, la quantité d’exercices proposés par les professeurs est déjà bien trop conséquente pour parvenir à tous les résoudre. Y arriver serait déjà très bien, et les professeurs seront sans doute ravis d’en proposer davantage eux-mêmes.
 {{< right >}} *Antoine, Eurecom 2A, (2026)* {{< /right >}}
 {{< /admonition >}}
 
@@ -89,7 +89,7 @@ En ce qui concerne "obtenir des nouveaux exercices pour s'entraîner" comme j'ai
 ### Protection des données
 
 À moins d'utiliser une IA locale (par exemple via [Ollama](https://ollama.com/) ou un autre programme similaire), discuter avec un LLM c'est aussi accepter qu'il s'entraine sur ce qu'on lui donne et que les entreprises derrière ces outils collectent tout ce qu'on dit.
-Cependant, le problème disparait dans le cas où vous utilisez de l'IA locale, mais encore faut-il avoir le matériel nécessaire pour la faire tourner, les modèles grossisant très vite en taille.
+Cependant, le problème disparait dans le cas où vous utilisez de l'IA locale, mais encore faut-il avoir le matériel nécessaire pour la faire tourner, les modèles grossissant très vite en taille.
 
 ### Conscience morale
 
@@ -99,7 +99,7 @@ De plus, ces modèles ont aussi un [impact humain](https://muse.jhu.edu/article/
 
 ### Conscience par rapport à l'environnement
 
-L'IA consomme énormémant d'électricité et d'eau.
+L'IA consomme énormément d'électricité et d'eau.
 
 Pour l'électricité : [Google a signé un accord pour utiliser des petits réacteurs nucléaires aux US](https://www.bbc.com/news/articles/c748gn94k95o) ou [Elon Musk utilise des groupes électrogènes pour Colossus](https://www.theguardian.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis).
 
