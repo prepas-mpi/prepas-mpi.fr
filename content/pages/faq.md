@@ -194,6 +194,10 @@ Je préciserais que les vacances avant l'entrée en première année sont aussi 
 {{< right >}} *Carole, MPI lycée Aux Lazaristes, Lyon (2023)* {{< /right >}}
 {{< /admonition >}}
 
+{{< admonition quote "Quelle est la place de l'Intelligence Artificielle en MP2I/MPI ?" false >}}
+La place de l'IA en MP2I/MPI est discutée [sur cette page](/posts/place-ia).
+{{< /admonition >}}
+
 ## L'admission
 
 {{< admonition quote "MP2I ou MPSI : que choisir ?" false >}}
