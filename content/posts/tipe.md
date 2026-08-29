@@ -134,6 +134,7 @@ Les exemples présentés ici sont de vrais  TIPE d'étudiants en MPI. Les droits
 | :---: | :--------: | :----------: | :--: | :----: |
 | Du Rubik’s Cube au Square-1 Structure combinatoire et Recherche du nombre de Dieu | Rémi Chandon | [![TIPE_Remi_Chandon.pdf](/icons/gallery.ico)](/documents/TIPE/2026/TIPE_Remi_Chandon.pdf) | [![MCOT_Remi_Chandon.pdf](/icons/document.ico)](/documents/TIPE/2026/MCOT_Remi_Chandon.pdf) | - |
 | Apprentissage en ligne pour l'exploitation d'une machine sous information partielle | Rehan | [![TIPE_Rehan.pdf](/icons/gallery.ico)](/documents/TIPE/2026/TIPE_Rehan.pdf) | [![MCOT_Rehan.pdf](/icons/document.ico)](/documents/TIPE/2026/MCOT_Rehan.pdf) | - |
+| Problème d'allocation de registres | SachiKumo | [![TIPE_SachiKumo.pdf](/icons/gallery.ico)](/documents/TIPE/2026/TIPE_SachiKumo.pdf) | [![MCOT_SachiKumo.pdf](/icons/document.ico)](/documents/TIPE/2026/MCOT_SachiKumo.pdf) | - |
 
 ### 2025 : Transition, transformation, conversion
 
